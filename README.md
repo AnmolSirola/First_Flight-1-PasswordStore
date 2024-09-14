@@ -1,11 +1,9 @@
 # First Flight #1: PasswordStore
 
-- [Contest Details](#contest-details)
-  - [Stats](#stats)
+- [Stats](#stats)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
   - [Deploy (local)](#deploy-local)
   - [Testing](#testing)
@@ -15,18 +13,6 @@
 - [Known Issues](#known-issues)
 
 [//]: # (contest-details-open)
-
-## Contest Details
-
-- 2x XP/Finding!
-  
-- High - 200xp
-- Medium - 40xp
-- Low - 4xp
-
-Starts: 00:00 UTC Wednesday, Oct 18 2023
-
-Ends: 00:00 UTC Wednesday, Oct 25 2023
 
 ## Stats
 
@@ -62,12 +48,6 @@ cd 2023-10-PasswordStore
 ​forge install foundry-rs/forge-std --no-commit
 forge build
 ```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/Cyfrin/3-passwordstore-audit)
 
 ## Usage
 

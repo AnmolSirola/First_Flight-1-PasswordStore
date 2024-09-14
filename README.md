@@ -1,5 +1,6 @@
 # First Flight #1: PasswordStore
 
+- [Report](#report)
 - [Stats](#stats)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -13,6 +14,9 @@
 - [Known Issues](#known-issues)
 
 [//]: # (contest-details-open)
+
+## Report
+Complete Audit [Report](https://github.com/AnmolSirola/First_Flight-1-PasswordStore/blob/main/audit-data/report.md)
 
 ## Stats
 
@@ -111,6 +115,9 @@ forge coverage --report debug
 [//]: # (known-issues-open)
 
 <p align="center">
+
 No known issues reported.
 
 [//]: # (known-issues-close)
+
+

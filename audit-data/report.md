@@ -9,7 +9,7 @@ Prepared by: [Anmol Sirola](https://x.com/AnmolSirola)
 
 - [PasswordStore Audit Report](#passwordstore-audit-report)
 - [Table of contents](#table-of-contents)
-- [About Anmol HERE](#about-your_name_here)
+- [About](#about-your_name_here)
 - [Disclaimer](#disclaimer)
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
@@ -36,7 +36,7 @@ Prepared by: [Anmol Sirola](https://x.com/AnmolSirola)
 
 # About Anmol
 
-I am a junior secruity reseacher, I was a full-stack web3 developer I have contributed to many open source programs and rojects and I have also won several hackkathons, Now I have taken the initiative to secure the web3 space
+I am a junior security researcher with a background in full-stack web3 development, I've had the privilege of contributing to numerous web3 open-source projects and achieving success in several hackathons. My journey has fueled a deep passion for securing the web3 space. I am committed to advancing security practices and developing robust solutions that protect the integrity and privacy of blockchain applications. My goal is to leverage my skills and experiences to enhance the security of the web3 ecosystem and contribute to a safer digital world.
 
 # Disclaimer
 
